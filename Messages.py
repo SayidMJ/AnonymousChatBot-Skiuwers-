@@ -1,7 +1,7 @@
-m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
+m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
 
 m_is_not_free_users = (
-    "❗️ Maaf Anda tidak berada dalam obrolan\n\n❗️ Sorry you are not in chat"
+    "❗️ Lawan bicara anda tidak ada wkwk\n\n❗️ Sorry you are not in chat"
 )
 
 m_is_connect = "✅ Anda sudah berada di dalam obrolan, silahkan kirim chat anda\n\n✅ You are already in the chat, please send your chat"
@@ -21,7 +21,7 @@ m_like = "✅ Anda mengerimkan username kepada lawan bicara!\n\n✅ You send the
 m_dislike_user = "Obrolan Telah Berakhir\n\nChat Has Ended"
 
 m_dislike_user_to = (
-    "⛔ Lawan bicara anda meninggalkan obrolan\n\n⛔ Your interlocutor leaves the chat"
+    "⛔ Anda kena skip wkwkwkw\n\n⛔ Your interlocutor leaves the chat"
 )
 
 m_send_some_messages = "Bot tidak bisa meneruskan pesan dari bot\n\nThe bot could not continue the pan from the bot"
